@@ -1,0 +1,116 @@
+    (chinesisches Sprichwort) Ein großer Mensch ist, wer sein Kinderherz nicht verliert.
+    (chinesisches Sprichwort) Wer sich darauf versteht, das Leben zu genießen, braucht keine Reichtümer.
+    (chinesisches Sprichwort)  Gedenke der Quelle, wenn du trinkst.
+    (chinesisches Sprichwort) Die Wissenden reden nicht viel, die Redenden wissen nicht viel.
+    (chinesisches Sprichwort) Bevor Du dich daran machst, die Welt zu verändern, gehe dreimal durch Dein eigenes Haus.
+    (chinesisches Sprichwort) Trunkenheit erzeugt keine Fehler, sie deckt sie auf.
+    (chinesisches Sprichwort) Gehe mit den Menschen wie mit Holz um, um eines wurmstichigen Stückchens würdest Du nie den ganzen Stamm wegwerfen.
+    (chinesisches Sprichwort) Jede Minute, die man lacht verlängert das Leben um eine Stunde.
+    (chinesisches Sprichwort) Ein einfacher Zweig ist dem Vogel lieber, als ein goldener Käfig.
+    (chinesisches Sprichwort) Lächeln ist die charmanteste Art dem Gegner die Zähne zu zeigen.
+    (chinesisches Sprichwort) Es führen viele Wege zum Gipfel eines Berges, doch die Aussicht bleibt die gleiche.
+    (chinesisches Sprichwort) Auch eine Reise von 1000 Meilen fängt mit dem ersten Schritt an.
+    (chinesisches Sprichwort) Wer mich schmeichelt, ist mein Feind. Wer mich tadelt, ist mein Lehrer.
+    (chinesisches Sprichwort) Achte auf Deine Gedanken, sie sind der Anfang Deiner Taten.
+    (chinesisches Sprichwort) Bist Du geduldig im Augenblick des Zorns, so wirst Du Dir hundert Tage Kummer ersparen.
+    (chinesisches Sprichwort) Verzeihen ist keine Narrheit, nur der Narr kann nicht verzeihen.
+    (chinesisches Sprichwort) Wenn Güte von uns ausgeht, werden wir auch Güte erfahren.
+    (chinesisches Sprichwort) Wer den Himmel im Wasser sieht, sieht die Fische auf den Bäumen.
+    (chinesisches Sprichwort) Was uns den Weg verlegt, bringt uns voran.
+    (chinesisches Sprichwort) Wer nicht auf den hohen Berg steigt, kennt die Ebene nicht.
+    (chinesisches Sprichwort) Nichts ist besser verkauft, als was man einem echten Freund, der es bedarf, schenkt.
+    (chinesisches Sprichwort) Hoffnung ist wie der Zucker im Tee: Auch wenn sie klein ist , versüsst sie alles.
+    (chinesisches Sprichwort) Eheleute, die sich lieben, sagen sich tausend Dinge, ohne zu sprechen.
+    (chinesisches Sprichwort) Die sicherste Tür ist die, die man offen lassen kann.
+    (chinesisches Sprichwort) Das Leben meistert man lächelnd oder überhaupt nicht.
+    (chinesisches Sprichwort) Je mehr Bekannte man hat, um so weniger kennt man die Leute.
+    (chinesisches Sprichwort) In einer friedlichen Familie kommt das Glück von selber.
+    (chinesisches Sprichwort) Wende Dein Gesicht der Sonne zu, dann fallen die Schatten hinter Dich.
+    (chinesisches Sprichwort) Reich ist, wer keine Schulden hat, glücklich, wer ohne Krankheit lebt.
+    (chinesisches Sprichwort) Nur mit den Augen der Anderen kann man seine Fehler gut sehen.
+    (chinesisches Sprichwort) Menschen kennen nicht ihre Fehler, Ochsen nicht ihre Stärke.
+    (chinesisches Sprichwort) Wer fragt, ist ein Narr für fünf Minuten. Wer nicht fragt, bleibt ein Narr für immer.
+    (chinesisches Sprichwort) Einen Tag lang ungestört die in Muße zu verleben, heißt einen Tag lang ein Unsterblicher zu sein.
+    (chinesisches Sprichwort) Alles Geld der Welt ist nicht so viel wert wie zur rechten Stunde ein Becher besten Weines.
+    (chinesisches Sprichwort) Eine Fähigkeit die nicht täglich zunimmt, geht täglich ein Stück zurück.
+    (chinesisches Sprichwort) Eine Freude vertreibt hundert Sorgen.
+    (chinesisches Sprichwort) Tausend und abertausend Ströme fließen ins Meer, aber das Meer ist nie voll – und könnte der Mensch Stein zu Gold verwandeln, sein Herz ist nie zufrieden.
+    (chinesische Weisheit) Fürchte Dich nicht, langsam zu gehen, fürchte Dich nur, stehen zu bleiben.
+    (chinesische Weisheit) Jeder hat Recht auf seine eigene Meinung, aber er hat keinen Anspruch darauf, dass andere sie teilen.
+    (chinesische Weisheit) Fordere viel von Dir selbst und erwarte wenig von den anderen. So bleibt Dir mancher Ärger erspart.
+    (chinesische Weisheit) Lerne zu schweigen und Du merkst, dass Du viel zu viel geredet hast.
+    (chinesische Weisheit) Die Wahrheiten, die wir am wenigsten gern hören, sind diejenigen, die wir am nötigsten kennen sollten.
+    (chinesische Weisheit) Wenn jemand sagt er habe keine Zeit, bedeutet das nur, dass ihm andere Dinge wichtiger sind.
+    (chinesische Weisheit) Die Stärke an einem Gefühl erkennt man an den Opfern, die man bereit ist dafür zu geben.
+    (chinesische Weisheit) Ein Augenblick der Geduld kann vor großem Unheil bewahren, ein Augenblick der Ungeduld ein ganzes Leben zerstören.
+    (chinesische Weisheit) Lieber eine Kerze anzünden, als über die Finsternis klagen.
+    (chinesische Weisheit) Werde nie zornig, sonst könntest Du an einem einzigen Tag das Holz verbrennen, welches Du in vielen sauren Wochen gesammelt hast.
+    (chinesische Weisheit) Unsere Wünsche sind wie kleine Kinder: je mehr man ihnen nachgibt, um so anspruchsvoller werden sie.
+    (chinesische Weisheit) Über Vergangenes mache Dir keine Sorge, dem Kommenden wende Dich zu.
+    (chinesische Weisheit) Solange Du dem Anderem sein Anderssein nicht verzeihen kannst, bist Du noch weit ab vom Wege der Weisheit.
+    (chinesische Weisheit) Der zufriedene Mensch, wenn auch arm, ist glücklich; der unzufriedene Mensch, wenn auch reich, ist traurig.
+    (chinesische Weisheit) Ist eine Sache geschehen, dann rede nicht darüber; es ist schwer, verschüttetes Wasser wieder zu sammeln.
+    (chinesische Weisheit) Was Du Deinen Eltern schuldig bist, weißt Du erst, wenn Du ein Kind hast.
+    (japanisches Sprichwort) Das Glück tritt gern in ein Haus, wo gute Laune herrscht.
+    (japanisches Sprichwort) Einmal selbst sehen ist mehr wert als hundert Neuigkeiten hören.
+    (japanisches Sprichwort) Folge der Arbeit und lasse Dich nicht von ihr verfolgen.
+    (japanisches Sprichwort) Im Haus, in dem gelacht wird, kommt das Glück.
+    (japanisches Sprichwort) Am Rausch ist nicht der Wein schuld, sondern der Trinker.
+    (japananisches Sprichwort) Urteile nicht über Dinge, von denen du nur Echo und Schatten kennst.
+    (japanisches Sprichwort) Wer lächelt statt zu toben, ist immer der Stärkere.
+    (Japanische Weisheit) Gewohnheiten sind zuerst Spinnweben - dann Drähte.
+    (Alte fernöstliche Weisheit) Betrachte denjenigen, der Deine Fehler aufdeckt, als jemanden, der Dir etwas von einem verborgenen Schatz zeigt.
+    (Tibetisches Sprichwort) Es genügt nicht, an den Fluss zu gehen mit dem Wunsch, Fische zu fangen. Man muss auch ein Netz mitbringen.
+    (koreanisches Sprichwort) Betrachte den Fluss Deines Lebens und erkenne, wie viele Ströme in ihn münden, die Dich nähren und unterstützen.
+    (Thich Nhat Hanh) Welche Kraft der Ursache und Wirkung entfaltet sich in heilenden und liebevollen Worten.
+    (Thich Nhat Hanh) Friedvoll soll unsere Lebensmelodie erklingen.
+    (Thich Nhat Hanh) Die Übung der Achtsamkeit ist nichts anderes als die Übung liebevoller Zuneigung.
+    (Thich Nhat Hanh) Wenn wir von etwas glauben, dies sei die absolute Wahrheit, und wenn wir uns daran klammern, dann sind wir nicht mehr offen.
+    (Thich Nhat Hanh) Die Vorstellungen sind die Quelle der Irrtümer, weil sie nicht die Wirklichkeit sind.
+    (Thich Nhat Hanh) Wir brauchen Harmonie, wir brauchen Frieden. Frieden beruht auf der Achtung vor dem Leben, auf dem Geist der Achtung vor dem Leben.
+    (Thich Nhat Hanh) Tatsächlich ist Liebe ein anderer Name für Verstehen.
+    (Thich Nhat Hanh) Man kann nur helfen, wenn man selbst über dem Konflikt steht.
+    (Thich Nhat Hanh) Sind wir wütend, sind wir die Wut. Lieben wir, sind wir die Liebe.
+    (Thich Nhat Hanh) Verstehen und Liebe sind nicht zwei Dinge, sondern eins.
+    (Thich Nhat Hanh) Unsere wahre Heimat ist der gegenwärtige Augenblick.
+    (Thich Nhat Hanh) Die Liebe ist das Gewürz des Lebens. Sie kann es versüßen, aber auch versalzen.
+    (Konfuzius) Indem man über andere schlecht redet, macht man sich selber nicht besser.
+    (Konfuzius) Wenn Du die Absicht hast, Dich zu erneuern, tu es jeden Tag.
+    (Konfuzius) Wer nur an die Bequemlichkeiten des Lebens denkt, kann nicht wahrhaft gebildet sein.
+    (Konfuzius) Es ist besser, ein einziges kleines Licht anzuzünden, als die Dunkelheit zu verfluchen.
+    (Konfuzius) Handele an andere Menschen so, wie Du selbst gerne behandelt werden möchtest.
+    (Konfuzius) Glück ist wie ein Vogel, wer es nicht ergreift, dem fliegt es davon.
+    (Konfuzius) Ich höre und vergesse. Ich sehe und erinnere. Ich tue und verstehe.
+    (Konfuzius) Nur die Allerklügsten und die Allerdümmsten ändern sich nie.
+    (Konfuzius) Dem anderen sein Anderssein zu vergeben, ist der Anfang von Weisheit. (aus China) Fordere viel von Dir selbst und erwarte wenig von anderen. So wird Dir viel Ärger erspart bleiben.
+    (Konfuzius) Der Mensch hat dreierlei Wege, klug zu handeln; erstens durch Nachdenken, das ist das Edelste, zweitens durch Nachahmen, das ist das Leichteste, und drittens durch Erfahrung, das ist das Bitterste.
+    (Konfuzius)  Wer einen Fehler gemacht hat und ihn nicht verbessert, begeht schon den zweiten.
+    (Konfuzius) Der Edle verlangt alles von sich selbst, der Primitive stellt nur Forderungen an andere.
+    (Konfuzius) Mach Dir keine Sorgen darüber, dass die Menschen Dich nicht kennen, sondern darüber, dass Du sie nicht kennst.
+    (Konfuzius) An Habe gewinnen heißt an Sein verlieren.
+    (Laotse) Güte in den Worten erzeugt Vertrauen; Güte beim Denken erzeugt Tiefe; Güte beim Verschenken erzeugt Liebe.
+    (Laotse) Der wahre Gelehrte schämt sich nicht, auch solche zu fragen, die unter ihm stehen.
+    (Laotse) Leg Dir jeden Tag für Deine Sorgen eine halbe Stunde zurück. Und in dieser Zeit mache ein Schläfchen!
+    (Laotse) Wer viele Schätze anhäuft, hat viel zu verlieren.
+    (Laotse) Wahre Worte sind nicht angenehm, angenehme Worte sind nicht wahr.
+    (Laotse) Der Weise hat keine unumstösslichen Grundsätze. er passt sich anderen an.
+    (Laotse) Der edle Mensch folgt dem Weg des Himmels und besänftigt das Schicksal, indem er Böses und Gutes verbreitet
+    (Laotse) Durch Leichtfertigkeit verliert man die Wurzeln, durch Unruhe die Übersicht.
+    (Laotse) Verantwortlich ist man nicht nur für das, was man tut, sondern auch für das, was man unterlässt.
+    (Laotse) Dinge wahrzunehmen ist der Keim der Intelligenz.
+    (Laotse) Lernen ist wie Rudern gegen den Strom. Hört man damit auf, treibt man zurück.
+    (Laotse) Der Edle verneigt sich, aber beugt sich nicht.
+    (Konfuzius) Wer seinen Weg kennt, muss sich nicht an jeder Kreuzung neu entscheiden
+    (chinesische Weisheit) Der Mensch ist dazu geboren, großes zu leisten, wenn er versteht, sich selbst zu besiegen.
+    (Bruce Lee) Fehler sind immer zu verzeihen, wenn man den Mut hat diese auch zuzugeben.
+    (Bruce Lee) Kein Weg als Weg, keine Grenze als Grenze.
+    (Bruce Lee) Das Wertvollste im Leben ist die Zeit. Leben heißt, richtig mit der Zeit umzugehen.
+    (Bruce Lee) Wissen ist nicht genug, wir müssen es anwenden. Wollen ist nicht genug, wir müssen es tun.
+    (Bruce Lee) Der Wille gestaltet den Menschen, zum Erfolg braucht er jedoch Mut und Ausdauer.
+    (Bruce Lee) Wenn du kritisiert wirst, dann musst Du irgend etwas richtig machen. Denn man greift nur denjenigen an, der den Ball hat.
+    (Bruce Lee) Die Welt ist voll von kleinen Freuden - die Kunst besteht nur darin, sie zu sehen.
+    (Li Tai-Po) Der Mensch kann nicht tausend Tage ununterbrochen gute Zeit haben, so wie die Blume nicht hundert Tage blühen kann
+    (Treng-Kuang) Ein Weg wird erst dann ein Weg, wenn einer ihn geht.
+    (Chuang-Tzu) Der Geist, der allen Dingen Leben verleiht, ist die Liebe.
+    (Tschu-Li, chinesisches Sprichwort) Wir leben nicht, um zu glauben, sondern um zu lernen.
+   
