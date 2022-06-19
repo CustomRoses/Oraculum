@@ -1,4 +1,4 @@
-    (chinesisches Sprichwort) Ein großer Mensch ist, wer sein Kinderherz nicht verliert.
+    () Ein großer Mensch ist, wer sein Kinderherz nicht verliert.
     (chinesisches Sprichwort) Wer sich darauf versteht, das Leben zu genießen, braucht keine Reichtümer.
     (chinesisches Sprichwort)  Gedenke der Quelle, wenn du trinkst.
     (chinesisches Sprichwort) Die Wissenden reden nicht viel, die Redenden wissen nicht viel.
@@ -113,4 +113,3 @@
     (Treng-Kuang) Ein Weg wird erst dann ein Weg, wenn einer ihn geht.
     (Chuang-Tzu) Der Geist, der allen Dingen Leben verleiht, ist die Liebe.
     (Tschu-Li, chinesisches Sprichwort) Wir leben nicht, um zu glauben, sondern um zu lernen.
-   
